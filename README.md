@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pymann1234&label=Profile%20views&color=0e75b6&style=flat" alt="pymann1234" /> </p>
 
-- 🔭 I’m currently working on **MERN Blog Web Application**
+- 🔭 I’m currently working on **3D Portfolio Website**
 
 - 🌱 I’m currently learning **Reactjs, Nextjs,**
 
@@ -13,8 +13,6 @@
 - 💬 Ask me about **Javascript.**
 
 - 📫 How to reach me **samhonkd007@gmail.com**
-
-- ⚡ Fun fact **Im a lot more funny than you can imagine..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
