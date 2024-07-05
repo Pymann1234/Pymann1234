@@ -11,16 +11,15 @@
 - 💬 Ask me about **Javascript.**
 
 - 📫 How to reach me **samhonkd007@gmail.com**
- 
-- 👨‍💻 All of my projects are available at [https://sam-ebenezer.vercel.app/](https://sam-ebenezer.vercel.app/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rKZRx5Hw2NNw1q8raU03QEUAdi8fdOis/view?usp=drive_link](https://drive.google.com/file/d/1rKZRx5Hw2NNw1q8raU03QEUAdi8fdOis/view?usp=drive_link)
 
-- ⚡ Fun fact **Im A Clown**
+- ⚡ Fun fact - **Im A Clown**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sam ebenezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam ebenezer" height="30" width="40" /></a>
+<a href="https://dev.to/https://sam-ebenezer.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://sam-ebenezer.vercel.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
