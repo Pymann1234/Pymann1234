@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="sam-ebenezer.vercel.app" target="blank">Personal Portfolio</a>
+<a href="https://sam-ebenezer.vercel.app" target="blank">Personal Portfolio</a>
 <a href="https://linkedin.com/in/sam ebenezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam ebenezer" height="30" width="40" /></a>
 </p>
 
