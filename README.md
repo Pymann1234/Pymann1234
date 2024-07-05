@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sam ebenezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam ebenezer" height="30" width="40" /></a>
 <p align="left">
-<a href="https://sam-ebenezer.vercel.app" target="blank"><img align="center" src="" alt="sam ebenezer" height="30" width="40" /></a>
+<a href="https://sam-ebenezer.vercel.app" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fworld-wide-web_1006771&psig=AOvVaw3UpMuUXNyf4reGjh3LCZEK&ust=1720276577498000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCmkeSPkIcDFQAAAAAdAAAAABAE" alt="sam ebenezer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
