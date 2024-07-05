@@ -4,17 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pymann1234&label=Profile%20views&color=0e75b6&style=flat" alt="pymann1234" /> </p>
 
-- 🔭 I’m currently working on **3D Portfolio Website**
+- 🔭 I’m currently working on **Saas Application**
 
 - 🌱 I’m currently learning **Reactjs, Nextjs,**
-
-- 👯 I’m looking to collaborate on **Social Media Application**
-
+ 
 - 💬 Ask me about **Javascript.**
 
 - 📫 How to reach me **samhonkd007@gmail.com**
  
 - 👨‍💻 All of my projects are available at [https://sam-ebenezer.vercel.app/](https://sam-ebenezer.vercel.app/)
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rKZRx5Hw2NNw1q8raU03QEUAdi8fdOis/view?usp=drive_link](https://drive.google.com/file/d/1rKZRx5Hw2NNw1q8raU03QEUAdi8fdOis/view?usp=drive_link)
+
+- ⚡ Fun fact **Im A Clown**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
