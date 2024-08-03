@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **samhonkd007@gmail.com**
 
-- ⚡ Fun fact - **Im A Clown :)**
+- ⚡ Fun fact - **Why do programmers prefer dark mode?? coz light attracts BUGS!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
