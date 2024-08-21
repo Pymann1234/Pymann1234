@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ChatGpt Clone**
 
-- 🌱 I’m currently learning **Reactjs, Nextjs,**
+- 🌱 I’m currently learning **Reactjs, Nextjs**
  
 - 💬 Ask me about **Javascript.**
 
