@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam Ebenezer N</h1> 
-<h3 align="center">A passionate and aspiring Web Developer from India</h3>
+<h3 align="center">Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ueeEd6uX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lfw68wjpgd9iy13ox9es.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pymann1234&label=Profile%20views&color=0e75b6&style=flat" alt="pymann1234" /> </p>
